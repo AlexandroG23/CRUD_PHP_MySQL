@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Proyecti UTP](imgproject.png)]
+[![Proyecti UTP](img/imgproject.png)]
 
 En el presente proyecto, realice un CRUD con PHP y MySQL.
 
